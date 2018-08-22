@@ -1,0 +1,7 @@
+.row {
+    outline: black solid 1px;
+}
+
+.col, [class*="col-"] {
+    outline: black solid 1px;
+}
