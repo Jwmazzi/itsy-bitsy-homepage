@@ -1,7 +1,9 @@
-.row {
-    outline: black solid 1px;
-}
-
-.col, [class*="col-"] {
-    outline: black solid 1px;
+.large-header {
+    position: relative;
+    width: 100%;
+    background: #333;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
 }
